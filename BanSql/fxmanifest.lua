@@ -20,4 +20,3 @@ dependencies {
 	'essentialmode',
 	'async'
 }
-server_scripts { '@mysql-async/lib/MySQL.lua' }
